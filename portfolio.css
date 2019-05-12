@@ -1,0 +1,191 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+}
+
+
+.about{
+	background: #e8e8e8 url('clouds.jpg');
+	background-size: cover;
+}
+
+
+.tm-header{
+	margin-top: 20px;
+	max-height: 60px;	
+}
+
+
+.img{
+	margin-left: 120px;
+}
+
+
+ul{
+	display: inline;
+    float: right;
+    height: 58px;
+}
+
+
+ul li{
+	display: inline-block;
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 150%;
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+ul li a:hover{
+    color: red;
+}
+
+
+.tm-me{
+	border-radius: 40px;
+	height: 300px;
+	width: 250px;
+	margin-left: 100px;
+	margin-top: 150px;
+	margin-right: 50px;
+	border: 3px dashed #1414e5;
+	float: left;
+}
+
+
+.tm-h1-1{
+	font-size: 500%;
+	color: #c11d2a;
+	font-family: 'Gloria Hallelujah', cursive;
+	margin-left: 600px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+
+.p1{
+   color: #000000;
+   margin-top: 100px;
+   font-family: 'Just Another Hand', cursive;
+   font-size: 300%;
+}
+
+
+.academics{
+	background-image: url('bible.jpg');
+	background-size: cover;
+}
+
+
+.tm-header2{
+	margin-top: 20px;
+	max-height: 60px;	
+}
+
+
+.img2{
+	margin-left: 120px;
+}
+
+
+ul li{
+	color: #ffe500;
+	font-family: 'Indie Flower', cursive;
+	font-size: 150%;
+}
+
+
+.tm-section ul{
+	list-style-type: disc;
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+
+.tm-div2{
+    max-width: 600px;
+    margin: 0 auto;
+    height: 400px; 
+}
+
+
+.tm-h1-2{
+	color: #ff4102;
+	font-family: 'Macondo Swash Caps', cursive;
+	font-size: 500%;
+	margin-left: 600px;
+	font-style: italic;
+	text-decoration: none;
+}
+
+
+.interests{
+	background-image: url('cake.jpg');
+	background-size: cover;
+}
+
+
+.section3 h1{
+   
+    color: white;
+    font-size: 400%;
+}
+
+
+.p3{
+	font-size: 300%;
+}
+
+
+.div3{
+	margin: 0 auto;
+	max-width: 800px;
+	height: 100px;
+}
+
+
+.contact{
+	background-image: url('beach.jpg');
+	background-size: cover;
+}
+
+
+.td{
+	padding-left: 10px;
+}
+
+
+.table{
+	border-collapse: separate;
+	border-spacing: 20px 40px;
+}
+
+
+.header4{
+	font-family: 'Pacifico', cursive;
+	font-size: 300%;
+}
+
+
+tr, td{
+	font-family: 'Caveat', cursive;
+	color: #424bf4;
+	font-size: 200%;
+	font-weight: bolder;
+}
+
+
+
+
+
+
+
+
